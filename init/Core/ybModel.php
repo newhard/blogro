@@ -1,8 +1,8 @@
 <?php
 
 /////////////////////////////////////////////////////////////////
-//云边开源轻博, Copyright (C)   2010 - 2011  qing.thinksaas.cn 
-//EMAIL:zhangshaomin_1990@126.com QQ:1470506882     
+//优云开源轻博, Copyright (C)   2010 - 2011  www.rovun.com
+//EMAIL:rovun@foxmail.com     
 
 class ybModel extends spModel
 {
