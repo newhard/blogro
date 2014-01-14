@@ -1,7 +1,7 @@
 <?php
 /////////////////////////////////////////////////////////////////
-//云边开源轻博, Copyright (C)   2010 - 2011  qing.thinksaas.cn //
-//Author 幻の羽翼, EMAIL:nxfte@qq.com    QQ:234027573          //
+//优云开源轻博, Copyright (C)   2010 - 2011  www.rovun.com
+//EMAIL:rovun@foxmail.com
 //$Id$
 
 error_reporting(0);
