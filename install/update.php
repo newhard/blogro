@@ -1,8 +1,8 @@
 <?php
 /////////////////////////////////////////////////////////////////
-//云边开源轻博, Copyright (C)   2010 - 2011  qing.thinksaas.cn
-//EMAIL:nxfte@qq.com QQ:234027573
-//$Id: update.php 745 2012-06-09 08:22:38Z anythink $
+//优云开源轻博, Copyright (C)   2010 - 2011  www.rovun.com
+//EMAIL:rovun@foxmail.com
+//$Id: update.php 745 2012-06-09 08:22:38Z rovun $
 
 define('APP_PATH',substr(dirname(__FILE__),0,-8));
 define('IN_APP',TRUE);
