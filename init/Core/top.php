@@ -1,8 +1,8 @@
 <?php
 /////////////////////////////////////////////////////////////////
-//云边开源轻博, Copyright (C)   2010 - 2011  qing.thinksaas.cn 
-//EMAIL:nxfte@qq.com QQ:234027573                              
-//$Id: top.php 1188 2012-07-04 13:04:17Z anythink $
+//优云开源轻博, Copyright (C)   2010 - 2011  www.rovun.com
+//EMAIL:rovun@foxmail.com                              
+//$Id: top.php 1188 2012-07-04 13:04:17Z rovun $
 
 class top extends spController
 {
