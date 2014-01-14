@@ -4,9 +4,9 @@
 /////////////////////////////////////////////////////////////////
 
 /////////////////////////////////////////////////////////////////
-//云边开源轻博, Copyright (C)   2010 - 2011  qing.thinksaas.cn
-//EMAIL:nxfte@qq.com QQ:234027573
-//$Id: spModel.php 1235 2012-07-08 16:08:12Z anythink $
+//优云开源轻博, Copyright (C)   2010 - 2011  www.rovun.com
+//EMAIL:rovun@foxmail.com
+//$Id: spModel.php 1235 2012-07-08 16:08:12Z rovun $
 
 /**
  * spModel 系统模型类，所有模型类的父类 应用程序中的每个模型类都应继承于spModel。
