@@ -1,7 +1,7 @@
 <?php
 /////////////////////////////////////////////////////////////////
-//优云开源轻博, Copyright (C)   2010 - 2011  qing.thinksaas.cn 
-//EMAIL:rovun@foxmail.com                              
+//优云开源轻博, Copyright (C)   2010 - 2011  www.rovun.com 
+//EMAIL:rovun@foxmail.com     Q群:329354214                              
 //$Id: user.php 1304 2012-07-19 13:18:47Z rovun $ 
 
 class user extends top
