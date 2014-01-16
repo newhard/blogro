@@ -1,8 +1,8 @@
 <?php
 /////////////////////////////////////////////////////////////////
-//优云开源轻博, Copyright (C)   2010 - 2011  qing.thinksaas.cn 
-//EMAIL:rovun@foxmail.com                              
-//$Id: login.php 1188 2012-07-04 13:04:17Z anythink $ 
+//优云开源轻博, Copyright (C)   2010 - 2011  www.rovun.com 
+//EMAIL:rovun@foxmail.com     Q群:329354214                              
+//$Id: login.php 1188 2012-07-04 13:04:17Z rovun $ 
 
 //登录注册邀请注册API
 class login extends top
