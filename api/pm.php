@@ -1,7 +1,7 @@
 <?php
 /////////////////////////////////////////////////////////////////
-//云边开源轻博, Copyright (C)   2010 - 2011  qing.thinksaas.cn 
-//EMAIL:nxfte@qq.com QQ:234027573                              
+//优云开源轻博, Copyright (C)   2010 - 2011  qing.thinksaas.cn 
+//EMAIL:rovun@foxmail.com                              
 //$Id: pm.php 1017 2012-06-24 16:11:30Z anythink $ 
 
 class pm extends top
