@@ -1,7 +1,7 @@
 <?php
 /////////////////////////////////////////////////////////////////
-//优云开源轻博, Copyright (C)   2010 - 2011  www.rovun.com
-//EMAIL:rovun@foxmail.com
+//优云开源轻博, Copyright (C)   2010 - 2011  www.rovun.com 
+//EMAIL:rovun@foxmail.com     Q群:329354214
 //$Id: index.php 43 2011-11-06 08:19:05Z rovun $
 
 define("APP_PATH",substr(dirname(__FILE__),0,-8));
