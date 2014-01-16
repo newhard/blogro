@@ -1,9 +1,9 @@
 <?php
 
 /////////////////////////////////////////////////////////////////
-//云边开源轻博, Copyright (C)   2010 - 2011  qing.thinksaas.cn 
-//EMAIL:nxfte@qq.com QQ:234027573                              
-//$Id: admin.php 1334 2012-08-06 14:25:25Z anythink $ 
+//优云开源轻博, Copyright (C)   2010 - 2011  qing.thinksaas.cn 
+//EMAIL:rovun@foxmail.com                              
+//$Id: admin.php 1334 2012-08-06 14:25:25Z rovun $ 
 
 
 class admin extends top
