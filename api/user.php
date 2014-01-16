@@ -1,7 +1,7 @@
 <?php
 /////////////////////////////////////////////////////////////////
-//云边开源轻博, Copyright (C)   2010 - 2011  qing.thinksaas.cn 
-//EMAIL:nxfte@qq.com QQ:234027573                              
+//优云开源轻博, Copyright (C)   2010 - 2011  qing.thinksaas.cn 
+//EMAIL:rovun@foxmail.com                              
 //$Id: user.php 1304 2012-07-19 13:18:47Z anythink $ 
 
 class user extends top
