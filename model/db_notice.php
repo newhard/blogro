@@ -1,8 +1,8 @@
 <?php
 /////////////////////////////////////////////////////////////////
-//云边开源轻博, Copyright (C)   2010 - 2011  qing.thinksaas.cn 
-//EMAIL:nxfte@qq.com QQ:234027573                              
-//$Id: db_notice.php 1309 2012-07-22 03:21:13Z anythink $ 
+//优云开源轻博, Copyright (C)   2010 - 2011  www.rovun.com 
+//EMAIL:rovun@foxmail.com     Q群:329354214                              
+//$Id: db_notice.php 1309 2012-07-22 03:21:13Z rovun $ 
 
 //通知发送
 //系统通知级别 0 用户私信  1 评论通知  2 系统通知 3关注通知
