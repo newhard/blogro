@@ -1,7 +1,7 @@
 <?php
 /////////////////////////////////////////////////////////////////
-//优云开源轻博, Copyright (C)   2010 - 2011  www.rovun.com
-//EMAIL:rovun@foxmail.com
+//优云开源轻博, Copyright (C)   2010 - 2011  www.rovun.com 
+//EMAIL:rovun@foxmail.com     Q群:329354214
 //$Id: thFunctions.php 1192 2012-07-04 13:23:13Z rovun $
 
 
