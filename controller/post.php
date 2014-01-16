@@ -1,8 +1,8 @@
 <?php
 /////////////////////////////////////////////////////////////////
-//云边开源轻博, Copyright (C)   2010 - 2011  qing.thinksaas.cn 
-//EMAIL:nxfte@qq.com QQ:234027573                              
-//$Id: post.php 858 2012-06-16 14:52:50Z anythink $         
+//优云开源轻博, Copyright (C)   2010 - 2011  www.rovun.com 
+//EMAIL:rovun@foxmail.com     Q群:329354214                              
+//$Id: post.php 858 2012-06-16 14:52:50Z rovun $         
 
 
 class post extends top
