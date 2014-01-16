@@ -1,8 +1,8 @@
 <?php
 /////////////////////////////////////////////////////////////////
-//云边开源轻博, Copyright (C)   2010 - 2011  qing.thinksaas.cn 
-//EMAIL:nxfte@qq.com QQ:234027573                              
-//$Id: basePostModel.php 1311 2012-07-24 12:47:48Z anythink $         
+//优云开源轻博, Copyright (C)   2010 - 2011  www.rovun.com 
+//EMAIL:rovun@foxmail.com     Q群:329354214                              
+//$Id: basePostModel.php 1311 2012-07-24 12:47:48Z rovun $         
 
 
 abstract class basePostModel extends top
