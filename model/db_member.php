@@ -1,8 +1,8 @@
 <?php
 /////////////////////////////////////////////////////////////////
-//云边开源轻博, Copyright (C)   2010 - 2011  qing.thinksaas.cn
-//EMAIL:nxfte@qq.com QQ:234027573
-//$Id: db_member.php 1188 2012-07-04 13:04:17Z anythink $
+//优云开源轻博, Copyright (C)   2010 - 2011  www.rovun.com 
+//EMAIL:rovun@foxmail.com     Q群:329354214
+//$Id: db_member.php 1188 2012-07-04 13:04:17Z rovun $
 
 class db_member extends ybModel
 {
