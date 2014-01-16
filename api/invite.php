@@ -1,7 +1,7 @@
 <?php
 /////////////////////////////////////////////////////////////////
-//云边开源轻博, Copyright (C)   2010 - 2011  qing.thinksaas.cn 
-//EMAIL:zhangshaomin_1990@126.com QQ:1470506882
+//优云开源轻博, Copyright (C)   2010 - 2011  qing.thinksaas.cn 
+//EMAIL:rovun@foxmail.com
 //$Id: invite.php 962 2012-06-22 07:30:13Z anythink $                            
 
 
