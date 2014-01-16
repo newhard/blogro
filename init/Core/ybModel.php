@@ -1,8 +1,8 @@
 <?php
 
 /////////////////////////////////////////////////////////////////
-//优云开源轻博, Copyright (C)   2010 - 2011  www.rovun.com
-//EMAIL:rovun@foxmail.com     
+//优云开源轻博, Copyright (C)   2010 - 2011  www.rovun.com 
+//EMAIL:rovun@foxmail.com     Q群:329354214     
 
 class ybModel extends spModel
 {
